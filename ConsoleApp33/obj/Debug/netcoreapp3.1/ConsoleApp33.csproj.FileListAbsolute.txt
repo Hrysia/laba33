@@ -1,0 +1,11 @@
+C:\Users\kriss\Desktop\Visual\ConsoleApp33\ConsoleApp33\bin\Debug\netcoreapp3.1\ConsoleApp33.exe
+C:\Users\kriss\Desktop\Visual\ConsoleApp33\ConsoleApp33\bin\Debug\netcoreapp3.1\ConsoleApp33.deps.json
+C:\Users\kriss\Desktop\Visual\ConsoleApp33\ConsoleApp33\bin\Debug\netcoreapp3.1\ConsoleApp33.runtimeconfig.json
+C:\Users\kriss\Desktop\Visual\ConsoleApp33\ConsoleApp33\bin\Debug\netcoreapp3.1\ConsoleApp33.runtimeconfig.dev.json
+C:\Users\kriss\Desktop\Visual\ConsoleApp33\ConsoleApp33\bin\Debug\netcoreapp3.1\ConsoleApp33.dll
+C:\Users\kriss\Desktop\Visual\ConsoleApp33\ConsoleApp33\bin\Debug\netcoreapp3.1\ConsoleApp33.pdb
+C:\Users\kriss\Desktop\Visual\ConsoleApp33\ConsoleApp33\obj\Debug\netcoreapp3.1\ConsoleApp33.csprojAssemblyReference.cache
+C:\Users\kriss\Desktop\Visual\ConsoleApp33\ConsoleApp33\obj\Debug\netcoreapp3.1\ConsoleApp33.AssemblyInfoInputs.cache
+C:\Users\kriss\Desktop\Visual\ConsoleApp33\ConsoleApp33\obj\Debug\netcoreapp3.1\ConsoleApp33.AssemblyInfo.cs
+C:\Users\kriss\Desktop\Visual\ConsoleApp33\ConsoleApp33\obj\Debug\netcoreapp3.1\ConsoleApp33.dll
+C:\Users\kriss\Desktop\Visual\ConsoleApp33\ConsoleApp33\obj\Debug\netcoreapp3.1\ConsoleApp33.pdb
